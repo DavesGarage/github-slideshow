@@ -2,8 +2,8 @@
 
 layout: slide
 
-title: "A modification of the original!"
+title: "Slide #2 - An example"
 
 ---
 
-Your text
+Isn't this cool?
